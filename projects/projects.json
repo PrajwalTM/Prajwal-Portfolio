@@ -1,8 +1,8 @@
 [
   {
-    "name": "Not Cotton Leaf Disease Detection using Deep Learning",
+    "name": "Cotton Leaf Disease Detection using Deep Learning",
     "desc": "The system successfully detects three illnesses, Bacterial Blight,Curl Virus, and Fusarium wilt, with a training accuracy of 98 percent with a dataset of 410 photos for each disease.",
-    "image": "notystackandroid",
+    "image": "cotton",
     "category": "Website",
     "links": {
       "view": "https://www.linkedin.com/posts/prajwal-t-m-585b81255_cybersecurity-sqlinjection-databases-activity-7022936246381412353-P30X?utm_source=share&utm_medium=member_desktop",
@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
-    "category": "mern",
+    "name": "Cotton Leaf Disease Detection using Deep Learning",
+    "desc": "The system successfully detects three illnesses, Bacterial Blight,Curl Virus, and Fusarium wilt, with a training accuracy of 98 percent with a dataset of 410 photos for each disease.",
+    "image": "CottonLeaf",
+    "category": "DeepLearning",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://www.linkedin.com/posts/prajwal-t-m-585b81255_cybersecurity-sqlinjection-databases-activity-7022936246381412353-P30X?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/AIML"
     }
   },
   {
