@@ -1,12 +1,12 @@
 [
   {
-    "name": "NotyStack Android",
-    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "name": "Not Cotton Leaf Disease Detection using Deep Learning",
+    "desc": "The system successfully detects three illnesses, Bacterial Blight,Curl Virus, and Fusarium wilt, with a training accuracy of 98 percent with a dataset of 410 photos for each disease.",
     "image": "notystackandroid",
-    "category": "android",
+    "category": "Website",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://www.linkedin.com/posts/prajwal-t-m-585b81255_cybersecurity-sqlinjection-databases-activity-7022936246381412353-P30X?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/PrajwalTM/AIML"
     }
   },
   {
