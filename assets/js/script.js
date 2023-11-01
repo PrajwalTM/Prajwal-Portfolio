@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Jigar Sable";
+            document.title = "Portfolio | Prajwal T M";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
         else {
@@ -75,7 +75,7 @@ var typed = new Typed(".typing-text", {
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
-    backDelay: 500,
+    backDelay: 500, 
 });
 // <!-- typed js effect ends -->
 
