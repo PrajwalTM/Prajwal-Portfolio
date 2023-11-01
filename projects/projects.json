@@ -1,7 +1,7 @@
 [
   {
-    "name": "Cotton Leaf Disease Detection using Deep Learning",
-    "desc": "The system successfully detects three illnesses, Bacterial Blight,Curl Virus, and Fusarium wilt, with a training accuracy of 98 percent with a dataset of 410 photos for each disease.",
+    "name": "Cotton Leaf Disease Detection",
+    "desc": "The system successfully detects three illnesses with a training accuracy of 98 percent with a dataset of 410 photos for each disease",
     "image": "cotton",
     "category": "Website",
     "links": {
