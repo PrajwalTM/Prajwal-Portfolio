@@ -1,8 +1,8 @@
 [
   {
-    "name": "Cotton Leaf Disease Detection",
-    "desc": "The system successfully detects three illnesses with a training accuracy of 98 percent with a dataset of 410 photos for each disease",
-    "image": "cotton",
+    "name": "Apt-19 Threat Group",
+    "desc": "The APT19 threat group, known for its sophisticated cyber operations, exhibits a complexarchitecture that integrates multiple components to achieve its objectives. Within its architecture,",
+    "image": "apt19",
     "category": "Website",
     "links": {
       "view": "https://www.linkedin.com/posts/prajwal-t-m-585b81255_cybersecurity-sqlinjection-databases-activity-7022936246381412353-P30X?utm_source=share&utm_medium=member_desktop",
